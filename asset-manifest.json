@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/threejs-presentation/static/css/main.afa1fb33.css",
+    "main.js": "/threejs-presentation/static/js/main.b97ac083.js",
+    "static/js/453.a379c8b2.chunk.js": "/threejs-presentation/static/js/453.a379c8b2.chunk.js",
+    "static/media/withless-logo-dark.svg": "/threejs-presentation/static/media/withless-logo-dark.467cc4c83e765461577ea08fafc73203.svg",
+    "index.html": "/threejs-presentation/index.html",
+    "main.afa1fb33.css.map": "/threejs-presentation/static/css/main.afa1fb33.css.map",
+    "main.b97ac083.js.map": "/threejs-presentation/static/js/main.b97ac083.js.map",
+    "453.a379c8b2.chunk.js.map": "/threejs-presentation/static/js/453.a379c8b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afa1fb33.css",
+    "static/js/main.b97ac083.js"
+  ]
+}
